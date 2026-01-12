@@ -5,7 +5,7 @@ This project develops a **data-driven real estate analytics system** focused on 
 
 The project demonstrates how historical property data can be leveraged to support **location-based pricing logic, demand inference, and comparative property evaluation** in dense urban markets like Mumbai.
 
----
+
 
 ## 🎯 Objectives
 - Predict apartment prices based on key property and location attributes  
@@ -13,7 +13,7 @@ The project demonstrates how historical property data can be leveraged to suppor
 - Enable preliminary **real estate market feasibility assessment** using predicted pricing trends  
 - Provide insights into how location, size, and configuration influence residential prices in Mumbai  
 
----
+
 
 ## 🧠 Methodology
 1. **Data Understanding & Cleaning**
@@ -33,7 +33,6 @@ The project demonstrates how historical property data can be leveraged to suppor
    - Implemented a similarity-based recommendation approach  
    - Suggested properties aligned with user-selected budget, location, and configuration  
 
----
 
 ## 🛠️ Tech Stack
 - **Programming Language:** Python  
@@ -41,7 +40,6 @@ The project demonstrates how historical property data can be leveraged to suppor
 - **Modeling:** Regression-based price prediction  
 - **Environment:** Jupyter Notebook  
 
----
 
 ## 📊 Key Outcomes
 - Accurate price predictions for Mumbai residential properties  
@@ -49,7 +47,7 @@ The project demonstrates how historical property data can be leveraged to suppor
 - Clear linkage between property attributes and pricing behavior  
 - Practical demonstration of **data-driven decision-making in real estate markets**  
 
----
+
 
 ## 📈 Use Cases
 - Real estate market feasibility studies  
@@ -57,15 +55,13 @@ The project demonstrates how historical property data can be leveraged to suppor
 - Investment screening and comparison  
 - Academic and applied data science projects  
 
----
+
 
 ## 🚀 How to Run
 1. Clone the repository  
 2. Install required Python libraries  
 3. Run the Jupyter Notebook to train models and generate predictions  
 4. Use the recommendation logic to explore suitable properties  
-
----
 
 ## 📌 Conclusion
 This project showcases how machine learning and analytics can be applied to **urban real estate markets** to support pricing intelligence and property selection. It serves as a strong foundation for **market feasibility analysis, investment evaluation, and decision-support systems** in the real estate domain.
